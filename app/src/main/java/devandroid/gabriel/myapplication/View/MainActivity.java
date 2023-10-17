@@ -1,8 +1,10 @@
-package devandroid.gabriel.myapplication;
+package devandroid.gabriel.myapplication.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import devandroid.gabriel.myapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 
